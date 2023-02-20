@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Amena</string>
+    <string-array name="countries">
+        <item>Egypt</item>
+        <item>Palestine</item>
+        <item>Syria</item>
+        <item>Yemin</item>
+        <item>Iraq</item>
+    </string-array>
 </resources>
